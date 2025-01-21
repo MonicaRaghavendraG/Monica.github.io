@@ -1,0 +1,24 @@
+.header{
+    height: 200;
+    background-color: rgb(206, 152, 179) ;
+    
+}
+.main{
+    height: 500px;
+}
+.main-intro img{
+    float:right;
+}
+.main-item img{
+    float: left;
+}
+.footer{
+    height: 50px;;
+    background-color:rgb(206, 152, 179);
+    }
+.footer-list li{
+    list-style: none;
+    float: right;
+    padding:10px 5px 25px 25px;
+}
+
